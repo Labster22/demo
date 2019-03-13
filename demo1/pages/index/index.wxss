@@ -1,0 +1,23 @@
+.container{
+  width: 400px;
+  height: 400px;
+  align-items:center;
+  justify-content:center;
+}
+.big{
+  height: 1000px;
+  width: 500px;
+  justify-content:center;
+  align-items:center;
+}
+
+.image{
+  width:"320px";
+  height:"460px"; 
+}
+
+
+
+
+
+
